@@ -1,0 +1,17 @@
+{
+  "title": "The MaSci Weekly",
+  "description": "All the news that's fit for a MaScian.",
+  "artist": "The MaSci Weekly",
+  "author": "The MaSci Weekly",
+  "cover": "",
+  "chapters": {
+    "0": {
+      "title": "0",
+      "volume": "1",
+      "last_updated": "1634859085",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/SZmoT76"
+      }
+    }
+  }
+}
