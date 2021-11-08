@@ -6,11 +6,19 @@
   "cover": "https://i.imgur.com/9pWLiuz.png",
   "chapters": {
     "1": {
-      "title": "The MaSci Weekly Issue 1",
+      "title": "The MaSci Weekly, Issue 1",
       "volume": "1",
       "last_updated": "1635859548",
       "groups": {
-        "The MaSci Weekly Team": "https://i.imgur.com/JLfOGdA.jpg"
+        "The MaSci Weekly Team": "/proxy/api/imgur/chapter/tAa1mKZ"
+      }
+    },
+    "2": {
+      "title": "The MaSci Weekly, Issue 2",
+      "volume": "1",
+      "last_updated": "1636331629",
+      "groups": {
+        "The MaSci Weekly Team": "/proxy/api/imgur/chapter/66WnCGM"
       }
     }
   }
